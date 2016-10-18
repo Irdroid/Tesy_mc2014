@@ -1,0 +1,23 @@
+Infrared remote control for TESY MC2014 heater unit. This application will allow you to control TESY MC2014 series home panel heaters. The remote control will work on smartphones with built in Infrared Blaster Hardware
+like HTC One m8,m9,m9 plus etc.
+
+Features:
+
+- Like the real remote control
+- Heptic feedback
+- Remote control distance depends on you IR hardware
+- Set temperature, timer, steps 1000W and 2000W, power ON and OFF
+- Completely replaces your existing remote control
+
+Usage:
+
+1.Start the App called TESY MC2014.
+2.Point your Smartphone towards the TESY MC2014 and tap on the power button to power on the unit. Then you can change the power setting by tapping on + / - to set respectively 1000W or 2000W
+3.You can also set a ON / Off timer by tapping on the timer button for ON / OFF the device after certain amount of time. The Temperature button is for setting the electronic thermoregulator setting of the device.
+
+Requirements:
+
+- A Smartphone with a built in IR Blaster that supports the Android IR API (Infrared Application Programm interface)
+- Tested on HTC One m8,m9,LG G3,Xiaomi MI4C 
+
+Please do not leave negative feedback if your smarphone does not have a built in Infrared Blaster hardware.
